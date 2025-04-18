@@ -1,0 +1,16 @@
+2025-04-17 21:46:08.656 [info] Extension host with pid 201929 started
+2025-04-17 21:46:09.189 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-17 21:46:09.473 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-17 21:46:09.481 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-17 21:46:09.591 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-17 21:46:09.766 [info] Eager extensions activated
+2025-04-17 21:46:09.788 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-17 21:46:09.795 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-17 21:46:13.106 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-17 21:46:13.122 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-17 21:46:13.224 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-17 21:46:13.311 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-17 21:46:26.089 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: false, activationEvent: '*'
+2025-04-17 21:47:10.294 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-04-17 21:50:12.798 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-17 21:50:12.912 [info] Extension host with pid 201929 exiting with code 0

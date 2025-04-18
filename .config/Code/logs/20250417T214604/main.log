@@ -1,0 +1,15 @@
+2025-04-17 21:46:04.283 [info] update#setState idle
+2025-04-17 21:46:09.530 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:46:33.205 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:46:33.292 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:46:33.509 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:46:34.287 [info] update#setState checking for updates
+2025-04-17 21:46:34.402 [info] update#setState idle
+2025-04-17 21:46:44.115 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:46:44.207 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:46:49.285 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:46:49.355 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:46:54.010 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:46:56.627 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:46:56.730 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-04-17 21:50:12.965 [info] Extension host with pid 201929 exited with code: 0, signal: unknown.

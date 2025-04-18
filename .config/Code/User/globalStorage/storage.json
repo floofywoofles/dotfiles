@@ -1,0 +1,64 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "418e140268ebd6f0a10b8c2c153ea5af34b5e0319801e6ff3fa7c25091d7cefa",
+    "telemetry.devDeviceId": "26efd5cd-a4bf-4af4-9cc9-4f914796d5ee",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1744940765175"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1744940765175": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/floofywoofles/.config/Code/Backups/1744940765175",
+            "uiState": {
+                "mode": 1,
+                "x": 22,
+                "y": 67,
+                "width": 1876,
+                "height": 991
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#090606",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(193, 192, 192, 0.6)",
+            "background": "#090606",
+            "editorBackground": "#090606",
+            "titleBarBackground": "#090606",
+            "titleBarBorder": "#090606",
+            "activityBarBackground": "#090606",
+            "activityBarBorder": "#090606",
+            "sideBarBackground": "#090606",
+            "sideBarBorder": "#090606",
+            "statusBarBackground": "#090606",
+            "statusBarBorder": "#090606",
+            "statusBarNoFolderBackground": "#0b0707"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}
