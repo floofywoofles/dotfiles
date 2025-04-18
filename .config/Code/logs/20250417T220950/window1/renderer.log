@@ -1,8 +1,0 @@
-2025-04-17 22:09:52.594 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2025-04-17 22:09:52.595 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2025-04-17 22:09:52.595 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2025-04-17 22:09:52.894 [info] Started local extension host with pid 236263.
-2025-04-17 22:09:53.756 [info] Settings Sync: Account status changed from uninitialized to unavailable
-2025-04-17 22:09:59.111 [info] [perf] Render performance baseline is 35ms
-2025-04-17 22:10:08.686 [info] Unable to reload {0}: {1} file:///home/floofywoofles/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
-2025-04-17 22:10:11.018 [info] Unable to reload {0}: {1} file:///home/floofywoofles/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json

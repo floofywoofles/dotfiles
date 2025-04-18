@@ -1,7 +1,0 @@
-2025-04-17 22:09:50.940 [info] update#setState idle
-2025-04-17 22:10:04.014 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
-2025-04-17 22:10:08.618 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
-2025-04-17 22:10:11.215 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
-2025-04-17 22:10:11.342 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
-2025-04-17 22:10:12.883 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
-2025-04-17 22:10:17.053 [info] Extension host with pid 236263 exited with code: 0, signal: unknown.
